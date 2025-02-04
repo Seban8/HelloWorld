@@ -1,0 +1,14 @@
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/seban/Desktop/SU/Aflevering/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
